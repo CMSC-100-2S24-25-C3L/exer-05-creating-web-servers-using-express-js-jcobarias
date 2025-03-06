@@ -1,4 +1,4 @@
-# WEEK 4
+# WEEK 5
 
 **EXERCISE 5 - Web Server with Express JS**
 
@@ -9,10 +9,10 @@ DEGREE PROGRAM: BS Computer Science
 SECTION: C-3L
 
 Takeaways:
+    - I learned how to use routes and perform methods such as POST and GET. It is essential in managing request and responses from the client and the server.
 
 
 References:
-    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
-    https://www.w3schools.com/jsref/jsref_substring.asp
+    
 
 
