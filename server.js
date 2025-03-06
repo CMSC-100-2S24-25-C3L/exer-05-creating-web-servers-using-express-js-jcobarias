@@ -39,7 +39,7 @@ app.post('/add-book', (req, res) => {
 
         fs.appendFile('books.txt', `${bookName},${isbn},${author},${yearPub} \n`, (err)=>{
             if (err) {
-                console.error("Error writing to file:", writeErr);
+                console.error("Error writing to file:", err);
                 return res.send({ success: false });
             }
             res.send({ success: true });
